@@ -3,4 +3,4 @@ Instagram Unfollow Tracker is a simple program that helps Instagram users / acco
 
 ## How to use
 >NOTE : Before running this program, make sure you have Python installed and have access to the necessary JSON data.
->And make sure that in the JSON file there is some of your following and followers data.
+>And make sure that the JSON file contains some of your following and follower data. Which can be downloaded on your Instagram account
